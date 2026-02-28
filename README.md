@@ -8,4 +8,7 @@ This repository is the final result of a term project for LIS 545B Data Curation
 ## Files Included in Repository 
 
 - Metadata: XML metadata file adhering to DataCite metadata schema
-- Final Report: includes final Data and Metadata Profile, final PANGAEA Repository Profile, and any other Additional Details relevant to the data. 
+- Final Report: includes final Data and Metadata Profile, final PANGAEA Repository Profile, and any other Additional Details relevant to the data.
+- 15 .csv files
+- 1 .Rmd file
+- 1 .R file
