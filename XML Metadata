@@ -9,4 +9,22 @@
                 <givenName>Dawn</givenName>
                 <familyName>Barlow</familyName>
                 <nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">0000-0001-6102-5058</nameIdentifier>
-                <affiliation affiliationIdentifier="https://ror.org/00ysfqy60" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org'>Oregon State University</afilliation>
+                <affiliation affiliationIdentifier="https://ror.org/00ysfqy60" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Oregon State University</afilliation>
+            <creator>
+                <creatorName nameType="Personal">Jorge, Mateo Estrada</creatorName>
+                <givenName>Mateo</givenName>
+                <familyName>Jorge</familyName>
+                <affiliation affiliationIdentifier="https://ror.org/00ysfqy60" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Oregon State University</afilliation>
+            <creator>
+                <creatorName nameType="Personal">Klinck, Holger</creatorName>
+                <givenName>Holger</givenName>
+                <familyName>Klinck</familyName>
+                <nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-1078-7268</nameIdentifier>
+                <affiliation affiliationIdentifier="https://ror.org/00ysfqy60" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Oregon State University</afilliation>
+                <affiliation affiliationIdentifier="https://ror.org/05bnh6r87" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Cornell University</affiliation>
+            <creator>
+                <creatorName nameType="Personal">Torres, Leigh G.</creatorName>
+                <givenName>Leigh</givenName>
+                <familyName>Torres</familyName>
+                <nameIdentifier schemeURI="https://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-2643-3950</nameIdentifier>
+                <affiliation affiliationIdentifier="https://ror.org/00ysfqy60" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Oregon State University</afilliation>
